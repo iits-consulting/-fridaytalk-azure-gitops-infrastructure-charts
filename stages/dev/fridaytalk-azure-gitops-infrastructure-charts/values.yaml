@@ -9,3 +9,5 @@ http-inspector:
   namespace: default
 cert-manager:
   namespace: cert-manager
+traefik:
+  namespace: routing
