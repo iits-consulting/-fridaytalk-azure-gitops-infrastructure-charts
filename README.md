@@ -1,1 +1,1 @@
-# -fridaytalk-azure-gitops-infrastructure-charts
+# fridaytalk-azure-gitops-infrastructure-charts
