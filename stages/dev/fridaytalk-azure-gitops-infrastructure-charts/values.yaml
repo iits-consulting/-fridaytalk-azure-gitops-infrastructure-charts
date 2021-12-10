@@ -1,0 +1,7 @@
+global:
+  stage: dev
+  projectName: fridaytalk-azure-gitops-infrastructure-charts
+  source:
+    repoURL: https://github.com/iits-consulting/fridaytalk-azure-gitops-infrastructure-charts.git
+    targetRevision: main
+    appsBasePath: stages/dev/fridaytalk-azure-gitops-infrastructure-charts/apps
